@@ -15,12 +15,19 @@ Repo olduğu gibi kopyalanmalı.
 
 ## Dizindeki Dosyaların Tanımları
 data (klasor. icerisinde Advertising.csv dosyasi var)
+
 templates (html template. icerisinde template.html dosyasi var)
+
 Procfile (heroku ile flask arasındaki iletişim için kullanılır)
+
 app.py (flask uygulamasi)
+
 model.py (modellemenin yapildigi script)
+
 regression_model.pkl (model nesnesi)
+
 requirements.txt (modüller ve versiyonlarının bilgisi. heroku tarafı için çok önemlidir.)
+
 
 
 
