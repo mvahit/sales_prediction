@@ -2,7 +2,7 @@
 
 ## Gereklilikler
 
-Repo olduğu gibi kopyalanmalı.
+Bu repoyu forklayınız.
 
 ## Projeyi Heroku'dan Çalıştırmak için
 
@@ -14,19 +14,19 @@ Repo olduğu gibi kopyalanmalı.
 6. manual deploy diyerek model deploy edilir.
 
 ## Dizindeki Dosyaların Tanımları
-data (klasor. icerisinde Advertising.csv dosyasi var)
+- data (klasor. icerisinde Advertising.csv dosyasi var)
 
-templates (html template. icerisinde template.html dosyasi var)
+- templates (html template. icerisinde template.html dosyasi var)
 
-Procfile (heroku ile flask arasındaki iletişim için kullanılır)
+- Procfile (heroku ile flask arasındaki iletişim için kullanılır)
 
-app.py (flask uygulamasi)
+- app.py (flask uygulamasi)
 
-model.py (modellemenin yapildigi script)
+- model.py (modellemenin yapildigi script)
 
-regression_model.pkl (model nesnesi)
+- regression_model.pkl (model nesnesi)
 
-requirements.txt (modüller ve versiyonlarının bilgisi. heroku tarafı için çok önemlidir.)
+- requirements.txt (modüller ve versiyonlarının bilgisi. heroku tarafı için çok önemlidir.)
 
 
 
